@@ -72,6 +72,15 @@ const Menu = [
     price: "10$",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
   },
+
+  {
+    id: 10,
+    image: "../images/samosa.jpg",
+    name: "samaso",
+    category: "raihan",
+    price: "10$",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+  },
 ];
 
 export default Menu;
